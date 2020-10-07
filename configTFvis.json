@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Morphological kidney features - tox study",
+      "tensorShape": [
+        1236,
+        10
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/LauLauThom/interactive-embedding-kidney/main/Features.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/LauLauThom/interactive-embedding-kidney/main/Metadata.tsv"
+    }
+  ]
+}
